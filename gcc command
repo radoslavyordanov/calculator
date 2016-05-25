@@ -1,0 +1,1 @@
+gcc main.c  shunting-yard.c stack.c -lm
